@@ -127,7 +127,7 @@
   },"21": {
     "doc": "About",
     "title": "Core Modules",
-    "content": ". | Install and update all DiRoots applications in one place | Add-in manager to easily activate/deactivate Revit plugins and the ability to save the activated/deactivated add-ins/plugins to profiles. | Auto delete Revit Journal Files. | Automatically open RVT and RFA files with the correct Revit version. | Quickly check the version of RVT and RFA files. | . Preview flow test AppManager first commit. ",
+    "content": ". | Install and update all DiRoots applications in one place | Add-in manager to easily activate/deactivate Revit plugins and the ability to save the activated/deactivated add-ins/plugins to profiles. | Auto delete Revit Journal Files. | Automatically open RVT and RFA files with the correct Revit version. | Quickly check the version of RVT and RFA files. | . Preview flow test AppManager second commit. ",
     "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/#core-modules",
     "relUrl": "/#core-modules"
   },"22": {
