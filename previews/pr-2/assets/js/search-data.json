@@ -1,0 +1,170 @@
+{"0": {
+    "doc": "Addin Manager",
+    "title": "Addin Manager",
+    "content": "In this tab, you can review the plug-ins installed on your computer, check their versions and installation locations, and manage their active status. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-AddinManager.html",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-AddinManager.html"
+  },"1": {
+    "doc": "Addin Manager",
+    "title": "Table of contents",
+    "content": ". | Settings | . | Use the switch in the On/Off column to activate or deactivate a plug-in. | Use the search box to find a plug-in. | . Close Revit and AutoCAD before activating or deactivating plug-ins. Run App Manager as an administrator before changing plug-in status. Without administrator permissions, those actions may fail. Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-AddinManager.html#table-of-contents",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-AddinManager.html#table-of-contents"
+  },"2": {
+    "doc": "Addin Manager",
+    "title": "Settings",
+    "content": "Use these settings to control cleanup of old Revit journal files. | Enable Auto delete Revit journal files to make the cleanup settings available. | Set how many days old journal files must be before they are eligible for cleanup. | Choose how often App Manager checks for eligible files. | . Cleanup deletes journal files that meet the age threshold you set. Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-AddinManager.html#settings",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-AddinManager.html#settings"
+  },"3": {
+    "doc": "DiRoots Context Menu",
+    "title": "DiRoots Context Menu",
+    "content": "Use the Windows context menu to check RVT and RFA file versions and open files with the appropriate Revit version. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html"
+  },"4": {
+    "doc": "DiRoots Context Menu",
+    "title": "Table of contents",
+    "content": ". | Check Revit version | Open Revit file with the correct Revit version | Support for workshared files | Open in audit mode | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#table-of-contents",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#table-of-contents"
+  },"5": {
+    "doc": "DiRoots Context Menu",
+    "title": "Check Revit version",
+    "content": "You can check the Revit version of one or more files after selecting them. From the same window, you can also choose the Revit version to open each file. | Select one or more RVT or RFA files, or right-click a single file. | Right-click the selection and click “Show more options”. | Find “DiRoots” and then click “Check Revit version”. | Review the Revit version for each selected file. From there, choose the Revit version to open any file if needed. | . Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#check-revit-version",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#check-revit-version"
+  },"6": {
+    "doc": "DiRoots Context Menu",
+    "title": "Open Revit file with the correct Revit version",
+    "content": "Use this option to open an RVT or RFA file with the Revit version the file requires. If the required Revit version is installed and the file is not workshared, the file opens directly. Otherwise, App Manager shows options to select the Revit version and, when needed, additional workshared settings. | Right-click the RVT or RFA file. | Click “Show more options”. | Find “DiRoots” and then click “Open Revit file with the correct Revit version”. | . Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#open-revit-file-with-the-correct-revit-version",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#open-revit-file-with-the-correct-revit-version"
+  },"7": {
+    "doc": "DiRoots Context Menu",
+    "title": "Support for workshared files",
+    "content": "When opening files through DiRoots App Manager, you can see whether a file is workshared and choose how to open it: . | As a central file | As a local file | As a detached file | . This is supported when using Check Revit version or Open Revit file with the correct Revit version, for one or more files. Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#support-for-workshared-files",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#support-for-workshared-files"
+  },"8": {
+    "doc": "DiRoots Context Menu",
+    "title": "Open in audit mode",
+    "content": "You can open files in Audit mode. Audit mode always opens the file in a new Revit session. You can also select Audit mode in the Check Revit version workflow or, in some cases, the Open Revit file with the correct Revit version workflow. Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#open-in-audit-mode",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-ContextMenu.html#open-in-audit-mode"
+  },"9": {
+    "doc": "App Manager",
+    "title": "App Manager",
+    "content": "DiRoots App Manager helps you install and update DiRoots applications, manage Revit plug-ins, and work with RVT and RFA files. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html"
+  },"10": {
+    "doc": "App Manager",
+    "title": "Table of contents",
+    "content": ". | Tools . | Tool details | User guide | Status | . | Settings | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html#table-of-contents",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html#table-of-contents"
+  },"11": {
+    "doc": "App Manager",
+    "title": "Tools",
+    "content": "In the Tools tab, you can browse the DiRoots applications available in App Manager. The label beside each tool name identifies its application type and whether it is free or requires a subscription. | Use the search box to find a tool. | Use the drop-down list to filter tools by type. | . Screenshots may show an earlier version of App Manager. Tool details . Select a tool to view its features. | In the Overview tab, review the tool’s main features and links to its documentation, feedback form, and custom software request form. | In the Changelog tab, review recent updates, new features, and bug fixes. | . Screenshots may show an earlier version of App Manager. User guide . Select the Info button to open the documentation and tutorial videos for the selected tool. Screenshots may show an earlier version of App Manager. Status . The button beside Info shows whether the application is installed or, for cloud applications, opens it. Statuses include Install, Uninstall, Update, and Open. If the button says Update, the installed application is out of date and may not include all current features. Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html#tools",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html#tools"
+  },"12": {
+    "doc": "App Manager",
+    "title": "Settings",
+    "content": "Use these settings to control cleanup of old Revit journal files. | Enable Auto delete Revit journal files to make the cleanup settings available. | Set how many days old journal files must be before they are eligible for cleanup. | Choose how often App Manager checks for eligible files. | . Cleanup deletes journal files that meet the age threshold you set. Screenshots may show an earlier version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html#settings",
+    "relUrl": "/docs/pages/DiKeeper%20Web/DiKeeperPlugin/AM-Tools.html#settings"
+  },"13": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": "DiRoots App Manager is a standalone desktop application for installing and updating DiRoots applications and managing Revit plug-ins. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html",
+    "relUrl": "/docs/getting-started.html"
+  },"14": {
+    "doc": "Getting Started",
+    "title": "Main Modules",
+    "content": ". | Install and update DiRoots applications in one place. | Activate or deactivate Revit plug-ins and save those settings in profiles. | Automatically delete old Revit journal files. | Open RVT and RFA files with the correct Revit version. | Check the Revit version of RVT and RFA files. | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html#main-modules",
+    "relUrl": "/docs/getting-started.html#main-modules"
+  },"15": {
+    "doc": "Getting Started",
+    "title": "Table of contents",
+    "content": ". | Main Modules | Download | Install . | Compatibility | Standard Installation | . | Uninstall . | Using the installer User Interface | From the control panel | . | Updates | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html#table-of-contents",
+    "relUrl": "/docs/getting-started.html#table-of-contents"
+  },"16": {
+    "doc": "Getting Started",
+    "title": "Download",
+    "content": "Download the latest version of App Manager. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html#download",
+    "relUrl": "/docs/getting-started.html#download"
+  },"17": {
+    "doc": "Getting Started",
+    "title": "Install",
+    "content": "Compatibility . | Windows 7, 8, 10 and 11. | . Standard Installation . This method is ideal for installing DiRoots App Manager on one computer. | Run App Manager installer. | Select the checkbox if you agree to the Terms and Conditions and Privacy Policy. | Click ‘Install’. | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html#install",
+    "relUrl": "/docs/getting-started.html#install"
+  },"18": {
+    "doc": "Getting Started",
+    "title": "Uninstall",
+    "content": "Using the installer User Interface . | Run App Manager installer. | Click ‘Remove’. | Wait for the uninstallation to complete and click ‘Finish’. | . From the control panel . | In the search box on the taskbar, type Control Panel and select it from the results. | Select Programs &gt; Programs and Features. | Press and hold (or right-click) on the program you want to remove and select Uninstall or Uninstall/Change. Then follow the directions on the screen. | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html#uninstall",
+    "relUrl": "/docs/getting-started.html#uninstall"
+  },"19": {
+    "doc": "Getting Started",
+    "title": "Updates",
+    "content": "DiRoots App Manager includes an updater that notifies you when a new version is available. You can install the update immediately or choose to be reminded the next day. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/getting-started.html#updates",
+    "relUrl": "/docs/getting-started.html#updates"
+  },"20": {
+    "doc": "About",
+    "title": "DiRoots App Manager",
+    "content": ". DiRoots App Manager is a standalone desktop application to install/update DiRoots Applications and to enable/disable Revit Plugins. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/#diroots-app-manager",
+    "relUrl": "/#diroots-app-manager"
+  },"21": {
+    "doc": "About",
+    "title": "Core Modules",
+    "content": ". | Install and update all DiRoots applications in one place | Add-in manager to easily activate/deactivate Revit plugins and the ability to save the activated/deactivated add-ins/plugins to profiles. | Auto delete Revit Journal Files. | Automatically open RVT and RFA files with the correct Revit version. | Quickly check the version of RVT and RFA files. | . Preview flow test AppManager first commit. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/#core-modules",
+    "relUrl": "/#core-modules"
+  },"22": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/",
+    "relUrl": "/"
+  },"23": {
+    "doc": "Search",
+    "title": "Search",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/search.html",
+    "relUrl": "/docs/search.html"
+  },"24": {
+    "doc": "Search",
+    "title": "Table of contents",
+    "content": ". | TOC | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/search.html#table-of-contents",
+    "relUrl": "/docs/search.html#table-of-contents"
+  },"25": {
+    "doc": "Search",
+    "title": "Enable search in configuration",
+    "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/search.html#enable-search-in-configuration",
+    "relUrl": "/docs/search.html#enable-search-in-configuration"
+  },"26": {
+    "doc": "Search",
+    "title": "Hiding pages from search",
+    "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/search.html#hiding-pages-from-search",
+    "relUrl": "/docs/search.html#hiding-pages-from-search"
+  },"27": {
+    "doc": "Search",
+    "title": "Generate search index when used as a gem",
+    "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
+    "url": "/DiRoots.Sandbox.AppManager.Releases/previews/pr-2/docs/search.html#generate-search-index-when-used-as-a-gem",
+    "relUrl": "/docs/search.html#generate-search-index-when-used-as-a-gem"
+  }
+}
