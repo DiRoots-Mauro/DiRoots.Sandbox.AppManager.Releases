@@ -19,3 +19,7 @@ DiRoots App Manager is a standalone desktop application to install/update DiRoot
 - Auto delete Revit Journal Files.
 - Automatically open RVT and RFA files with the correct Revit version.
 - Quickly check the version of RVT and RFA files.
+
+Preview flow test AppManager first commit.
+
+![Preview flow test image]({{ '/assets/images/preview-flow-test.png' | relative_url }})
